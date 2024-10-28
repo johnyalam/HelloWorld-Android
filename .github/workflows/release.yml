@@ -67,5 +67,5 @@ jobs:
           packageName: fi.dev.helloworld
           releaseFiles: app/build/outputs/bundle/release/app-release.aab
           track: 'alpha'
-          status: 'draft'
+          status: 'complete'
           whatsNewDirectory: whatsNew/
