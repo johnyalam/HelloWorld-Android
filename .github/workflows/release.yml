@@ -66,6 +66,6 @@ jobs:
           serviceAccountJson: service_account.json
           packageName: fi.dev.helloworld
           releaseFiles: app/build/outputs/bundle/release/app-release.aab
-          track: 'alpha'
+          track: 'internal'
           status: 'completed'
           whatsNewDirectory: whatsNew/
